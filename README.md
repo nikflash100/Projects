@@ -1,5 +1,5 @@
 # Projects
-# Projects
+
 
 A compilation of my coding projects in Python and Java.
 
